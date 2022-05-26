@@ -1,10 +1,6 @@
 # PySpark-exercise
 Exercício utilizando base pública de CNPJs da Receita Federal
 
-<div style="font-size:15px">
-  <h1>Exercício utilizando base pública de CNPJs da Receita Federal</h1>
-</div>
-
 # Sobre o Projeto
 
 <br/>
